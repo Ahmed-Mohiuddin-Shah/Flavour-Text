@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"FlavourText","l":"CONSTRUCTIVE"},{"p":"<Unnamed>","c":"FlavourText","l":"DESTRUCTIVE"},{"p":"<Unnamed>","c":"FlavourText","l":"getLine()"},{"p":"<Unnamed>","c":"FlavourText","l":"getLine(Boolean)","u":"getLine(java.lang.Boolean)"}];updateSearchResults();
