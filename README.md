@@ -5,6 +5,7 @@ I am porting Zack Freedman's flavourtext.h random loading message generator to e
 # Current Implementations:
 
 -> Java
+-> Python
 
 # Generated Sample Text (30 random lines):
 Pwning monkeys...
